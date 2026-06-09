@@ -1,4 +1,4 @@
- 🏦 Bank Management System
+### 🏦 Bank Management System
 
 A comprehensive Banking Management System developed using **Java, Swing/AWT, JDBC, and MySQL** that simulates real-world banking operations through an interactive graphical user interface. The application allows users to create accounts, securely log in, manage transactions, and view account details with persistent database storage.
 
